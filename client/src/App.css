@@ -1,0 +1,12 @@
+.App {
+    height: 100vh;
+    background-color: rgb(38, 42, 70);
+    color: white;
+}
+
+.error-box {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+}

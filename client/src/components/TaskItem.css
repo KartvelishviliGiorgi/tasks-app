@@ -1,0 +1,20 @@
+.task-item {
+    color: white;
+    margin: 20px 0;
+}
+
+.task-description {
+    font-size: 16px;
+}
+
+.status-select-box {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+
+.btn-task-delete {
+    position: absolute;
+    right: 10px;
+    top: 52px;
+}
